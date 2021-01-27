@@ -4,6 +4,4 @@ I file qui contenuti contengono i dati aggiornati delle colorazioni assegnate ad
 
 I due file contengono le stesse informazioni in due formati (json e csv)
 
-Giorgio Tsiotas
-
-Luca Lorello
+Giorgio Tsiotas - Luca Lorello
