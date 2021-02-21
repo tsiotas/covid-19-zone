@@ -3238,5 +3238,35 @@
         "Totale Arancioni": 9,
         "Totale Rosse": 0,
         "mappa": "http:\/\/www.tsiotas.com\/covid-19\/zone\/2021-02-21.png"
+    },
+    {
+        "Giorno": "2021-02-22",
+        "zone": {
+            "Abruzzo": "Arancione",
+            "Basilicata": "Gialla",
+            "Calabria": "Gialla",
+            "Campania": "Arancione",
+            "Emilia-Romagna": "Arancione",
+            "Friuli Venezia Giulia": "Gialla",
+            "Lazio": "Gialla",
+            "Liguria": "Arancione",
+            "Lombardia": "Gialla",
+            "Marche": "Gialla",
+            "Molise": "Arancione",
+            "P.A. Bolzano": "Arancione",
+            "P.A. Trento": "Arancione",
+            "Piemonte": "Gialla",
+            "Puglia": "Gialla",
+            "Sardegna": "Gialla",
+            "Sicilia": "Gialla",
+            "Toscana": "Arancione",
+            "Umbria": "Arancione",
+            "Valle d'Aosta": "Gialla",
+            "Veneto": "Gialla"
+        },
+        "Totale Gialle": 12,
+        "Totale Arancioni": 9,
+        "Totale Rosse": 0,
+        "mappa": "http:\/\/www.tsiotas.com\/covid-19\/zone\/2021-02-21.png"
     }
 ]
