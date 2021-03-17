@@ -4033,7 +4033,7 @@
         "Giorno": "2021-03-16",
         "zone": {
             "Abruzzo": "Arancione",
-            "Basilicata": "Rossa",
+            "Basilicata": "Arancione",
             "Calabria": "Arancione",
             "Campania": "Rossa",
             "Emilia-Romagna": "Rossa",
@@ -4056,15 +4056,15 @@
         },
         "Totale Bianche": 1,
         "Totale Gialle": 0,
-        "Totale Arancioni": 8,
-        "Totale Rosse": 12,
-        "mappa": "http:\/\/www.tsiotas.com\/covid-19\/zone\/2021-03-15.png"
+        "Totale Arancioni": 9,
+        "Totale Rosse": 11,
+        "mappa": "http:\/\/www.tsiotas.com\/covid-19\/zone\/2021-03-16.png"
     },
     {
         "Giorno": "2021-03-17",
         "zone": {
             "Abruzzo": "Arancione",
-            "Basilicata": "Rossa",
+            "Basilicata": "Arancione",
             "Calabria": "Arancione",
             "Campania": "Rossa",
             "Emilia-Romagna": "Rossa",
@@ -4087,8 +4087,8 @@
         },
         "Totale Bianche": 1,
         "Totale Gialle": 0,
-        "Totale Arancioni": 8,
-        "Totale Rosse": 12,
-        "mappa": "http:\/\/www.tsiotas.com\/covid-19\/zone\/2021-03-15.png"
+        "Totale Arancioni": 9,
+        "Totale Rosse": 11,
+        "mappa": "http:\/\/www.tsiotas.com\/covid-19\/zone\/2021-03-16.png"
     }
 ]
