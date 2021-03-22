@@ -6,3 +6,6 @@ I file contengono i dati aggiornati delle colorazioni assegnate ogni giorno ad o
 I due file contengono le stesse informazioni in due formati (json e csv)
 
 Giorgio Tsiotas - Luca Lorello
+
+# Termini di Licenza:
+https://creativecommons.org/licenses/by/4.0/deed.it
