@@ -11,21 +11,21 @@
         "Liguria": "Arancione",
         "Lombardia": "Rossa",
         "Marche": "Rossa",
-        "Molise": "Rossa",
+        "Molise": "Arancione",
         "P.A. Bolzano": "Arancione",
         "P.A. Trento": "Rossa",
         "Piemonte": "Rossa",
         "Puglia": "Rossa",
-        "Sardegna": "Bianca",
+        "Sardegna": "Arancione",
         "Sicilia": "Arancione",
         "Toscana": "Arancione",
         "Umbria": "Arancione",
         "Valle d'Aosta": "Arancione",
         "Veneto": "Rossa"
     },
-    "Totale Bianche": 1,
+    "Totale Bianche": 0,
     "Totale Gialle": 0,
-    "Totale Arancioni": 9,
-    "Totale Rosse": 11,
-    "mappa": "http:\/\/www.tsiotas.com\/covid-19\/zone\/2021-03-16.png"
+    "Totale Arancioni": 11,
+    "Totale Rosse": 10,
+    "mappa": "http:\/\/www.tsiotas.com\/covid-19\/zone\/2021-03-22.png"
 }
