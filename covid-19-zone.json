@@ -4472,7 +4472,7 @@
             "Campania": "Rossa",
             "Emilia-Romagna": "Rossa",
             "Friuli Venezia Giulia": "Rossa",
-            "Lazio": "Rossa",
+            "Lazio": "Arancione",
             "Liguria": "Arancione",
             "Lombardia": "Rossa",
             "Marche": "Rossa",
@@ -4490,8 +4490,8 @@
         },
         "Totale Bianche": 0,
         "Totale Gialle": 0,
-        "Totale Arancioni": 8,
-        "Totale Rosse": 13,
-        "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-03-29.png"
+        "Totale Arancioni": 9,
+        "Totale Rosse": 12,
+        "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-03-30.png"
     }
 ]
