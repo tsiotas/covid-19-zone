@@ -10,7 +10,7 @@
         "Lazio": "Arancione",
         "Liguria": "Arancione",
         "Lombardia": "Rossa",
-        "Marche": "Rossa",
+        "Marche": "Arancione",
         "Molise": "Arancione",
         "P.A. Bolzano": "Arancione",
         "P.A. Trento": "Arancione",
@@ -25,7 +25,7 @@
     },
     "Totale Bianche": 0,
     "Totale Gialle": 0,
-    "Totale Arancioni": 11,
-    "Totale Rosse": 10,
+    "Totale Arancioni": 12,
+    "Totale Rosse": 9,
     "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-04-06.png"
 }
