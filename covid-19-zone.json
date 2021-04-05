@@ -4679,5 +4679,36 @@
         "Totale Arancioni": 0,
         "Totale Rosse": 21,
         "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-04-03.png"
+    },
+    {
+        "Giorno": "2021-04-06",
+        "zone": {
+            "Abruzzo": "Rossa",
+            "Basilicata": "Rossa",
+            "Calabria": "Rossa",
+            "Campania": "Rossa",
+            "Emilia-Romagna": "Rossa",
+            "Friuli Venezia Giulia": "Rossa",
+            "Lazio": "Rossa",
+            "Liguria": "Rossa",
+            "Lombardia": "Rossa",
+            "Marche": "Rossa",
+            "Molise": "Rossa",
+            "P.A. Bolzano": "Rossa",
+            "P.A. Trento": "Rossa",
+            "Piemonte": "Rossa",
+            "Puglia": "Rossa",
+            "Sardegna": "Rossa",
+            "Sicilia": "Rossa",
+            "Toscana": "Rossa",
+            "Umbria": "Rossa",
+            "Valle d'Aosta": "Rossa",
+            "Veneto": "Rossa"
+        },
+        "Totale Bianche": 0,
+        "Totale Gialle": 0,
+        "Totale Arancioni": 0,
+        "Totale Rosse": 21,
+        "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-04-03.png"
     }
 ]
