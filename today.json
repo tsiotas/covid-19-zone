@@ -4,7 +4,7 @@
         "Abruzzo": "Arancione",
         "Basilicata": "Arancione",
         "Calabria": "Arancione",
-        "Campania": "Rossa",
+        "Campania": "Arancione",
         "Emilia-Romagna": "Arancione",
         "Friuli Venezia Giulia": "Arancione",
         "Lazio": "Arancione",
@@ -25,7 +25,7 @@
     },
     "Totale Bianche": 0,
     "Totale Gialle": 0,
-    "Totale Arancioni": 17,
-    "Totale Rosse": 4,
-    "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-04-12.png"
+    "Totale Arancioni": 18,
+    "Totale Rosse": 3,
+    "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-04-19.png"
 }
