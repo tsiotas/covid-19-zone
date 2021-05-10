@@ -2,8 +2,8 @@
     "Giorno": "2021-05-10",
     "zone": {
         "Abruzzo": "Gialla",
-        "Basilicata": "Arancione",
-        "Calabria": "Arancione",
+        "Basilicata": "Gialla",
+        "Calabria": "Gialla",
         "Campania": "Gialla",
         "Emilia-Romagna": "Gialla",
         "Friuli Venezia Giulia": "Gialla",
@@ -15,17 +15,17 @@
         "P.A. Bolzano": "Gialla",
         "P.A. Trento": "Gialla",
         "Piemonte": "Gialla",
-        "Puglia": "Arancione",
+        "Puglia": "Gialla",
         "Sardegna": "Arancione",
         "Sicilia": "Arancione",
         "Toscana": "Gialla",
         "Umbria": "Gialla",
-        "Valle d'Aosta": "Rossa",
+        "Valle d'Aosta": "Arancione",
         "Veneto": "Gialla"
     },
     "Totale Bianche": 0,
-    "Totale Gialle": 15,
-    "Totale Arancioni": 5,
-    "Totale Rosse": 1,
-    "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-05-03.png"
+    "Totale Gialle": 18,
+    "Totale Arancioni": 3,
+    "Totale Rosse": 0,
+    "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-05-10.png"
 }
