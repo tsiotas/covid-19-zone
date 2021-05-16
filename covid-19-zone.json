@@ -5969,17 +5969,17 @@
             "P.A. Trento": "Gialla",
             "Piemonte": "Gialla",
             "Puglia": "Gialla",
-            "Sardegna": "Arancione",
-            "Sicilia": "Arancione",
+            "Sardegna": "Gialla",
+            "Sicilia": "Gialla",
             "Toscana": "Gialla",
             "Umbria": "Gialla",
             "Valle d'Aosta": "Arancione",
             "Veneto": "Gialla"
         },
         "Totale Bianche": 0,
-        "Totale Gialle": 18,
-        "Totale Arancioni": 3,
+        "Totale Gialle": 20,
+        "Totale Arancioni": 1,
         "Totale Rosse": 0,
-        "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-05-10.png"
+        "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-05-17.png"
     }
 ]
