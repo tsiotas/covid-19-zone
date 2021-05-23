@@ -20,12 +20,12 @@
         "Sicilia": "Gialla",
         "Toscana": "Gialla",
         "Umbria": "Gialla",
-        "Valle d'Aosta": "Arancione",
+        "Valle d'Aosta": "Gialla",
         "Veneto": "Gialla"
     },
     "Totale Bianche": 0,
-    "Totale Gialle": 20,
-    "Totale Arancioni": 1,
+    "Totale Gialle": 21,
+    "Totale Arancioni": 0,
     "Totale Rosse": 0,
-    "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-05-17.png"
+    "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-05-24.png"
 }
