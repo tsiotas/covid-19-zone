@@ -6826,17 +6826,17 @@
             "Basilicata": "Gialla",
             "Calabria": "Gialla",
             "Campania": "Gialla",
-            "Emilia-Romagna": "Gialla",
+            "Emilia-Romagna": "Bianca",
             "Friuli Venezia Giulia": "Bianca",
-            "Lazio": "Gialla",
+            "Lazio": "Bianca",
             "Liguria": "Bianca",
-            "Lombardia": "Gialla",
+            "Lombardia": "Bianca",
             "Marche": "Gialla",
             "Molise": "Bianca",
             "P.A. Bolzano": "Gialla",
-            "P.A. Trento": "Gialla",
-            "Piemonte": "Gialla",
-            "Puglia": "Gialla",
+            "P.A. Trento": "Bianca",
+            "Piemonte": "Bianca",
+            "Puglia": "Bianca",
             "Sardegna": "Bianca",
             "Sicilia": "Gialla",
             "Toscana": "Gialla",
@@ -6844,10 +6844,10 @@
             "Valle d'Aosta": "Gialla",
             "Veneto": "Bianca"
         },
-        "Totale Bianche": 7,
-        "Totale Gialle": 14,
+        "Totale Bianche": 13,
+        "Totale Gialle": 8,
         "Totale Arancioni": 0,
         "Totale Rosse": 0,
-        "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-06-07.png"
+        "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-06-14.png"
     }
 ]
