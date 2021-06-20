@@ -7035,5 +7035,36 @@
         "Totale Arancioni": 0,
         "Totale Rosse": 0,
         "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-06-14.png"
+    },
+    {
+        "Giorno": "2021-06-21",
+        "zone": {
+            "Abruzzo": "Bianca",
+            "Basilicata": "Gialla",
+            "Calabria": "Gialla",
+            "Campania": "Gialla",
+            "Emilia-Romagna": "Bianca",
+            "Friuli Venezia Giulia": "Bianca",
+            "Lazio": "Bianca",
+            "Liguria": "Bianca",
+            "Lombardia": "Bianca",
+            "Marche": "Gialla",
+            "Molise": "Bianca",
+            "P.A. Bolzano": "Gialla",
+            "P.A. Trento": "Bianca",
+            "Piemonte": "Bianca",
+            "Puglia": "Bianca",
+            "Sardegna": "Bianca",
+            "Sicilia": "Gialla",
+            "Toscana": "Gialla",
+            "Umbria": "Bianca",
+            "Valle d'Aosta": "Gialla",
+            "Veneto": "Bianca"
+        },
+        "Totale Bianche": 13,
+        "Totale Gialle": 8,
+        "Totale Arancioni": 0,
+        "Totale Rosse": 0,
+        "mappa": "https:\/\/covid-19-zone.tsiotas.com\/img\/2021-06-14.png"
     }
 ]
